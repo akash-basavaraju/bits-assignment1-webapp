@@ -1,9 +1,9 @@
-.App {
+.Testimonials {
   text-align: center;
   background-color: #247a48;
 }
 
-.App-header {
+.Testimonials-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,6 @@
   color: white;
 }
 
-.App-link {
+.Testimonials-link {
   color: #61dafb;
 }

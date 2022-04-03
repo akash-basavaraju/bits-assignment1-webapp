@@ -1,9 +1,9 @@
-.App {
+.About {
   text-align: center;
   background-color: #247a48;
 }
 
-.App-header {
+.About-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,6 @@
   color: white;
 }
 
-.App-link {
+.About-link {
   color: #61dafb;
 }

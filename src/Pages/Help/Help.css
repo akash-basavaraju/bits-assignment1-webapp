@@ -1,9 +1,9 @@
-.App {
+.Help {
   text-align: center;
   background-color: #247a48;
 }
 
-.App-header {
+.Help-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,6 @@
   color: white;
 }
 
-.App-link {
+.Help-link {
   color: #61dafb;
 }
