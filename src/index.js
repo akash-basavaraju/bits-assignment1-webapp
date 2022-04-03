@@ -5,6 +5,7 @@ import "./index.css";
 import Help from "./Pages/Help/Help";
 import App from "./Pages/Main/App";
 import About from "./Pages/About/About";
+import Testimonials from "./Pages/Testimonials/Testimonials";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -13,6 +14,7 @@ ReactDOM.render(
         <Route path="/" element={<App />} />
         <Route path="/help" element={<Help />} />
         <Route path="/about" element={<About />} />
+        <Route path="/testimonials" element={<Testimonials />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
