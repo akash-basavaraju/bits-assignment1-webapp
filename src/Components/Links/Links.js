@@ -11,6 +11,9 @@ export default function Links() {
       <Link className="link" to="/about">
         About
       </Link>
+      <Link className="link" to="/project">
+        Project
+      </Link>
       <Link className="link" to="/help">
         Help
       </Link>
